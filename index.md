@@ -3,7 +3,7 @@
 
 # Polster-lab
 
-
+Our research focuses on systems medicine approaches to complex diseases. We combine competences in clinical and translational medicine with systems biology, bioinformatics and statistical modelling.
 
 {% include section.html %}
 
