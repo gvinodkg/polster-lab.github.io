@@ -1,1 +1,1 @@
-Sitemap: https://polster-lab.github.io/polster-lab/sitemap.xml
+Sitemap: https://polster-lab.github.io/sitemap.xml
