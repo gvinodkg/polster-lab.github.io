@@ -1,5 +1,6 @@
----
-name: Jane Smith
+
+--
+name: Mounika Gogula
 image: images/photo.jpg
 role: pi
 affiliation: University of Colorado
